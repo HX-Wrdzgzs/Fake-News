@@ -4,7 +4,7 @@
 
 > 原文共 204 页。约19万字，涉及较具体的自伤/自杀经历，以及会强化不健康体重/外貌自我贬低的具体描述，已用省略标记替代；其余内容按原文顺序保留。
 
-> 请注意，该文案使用Nano Fabs AI 转换为Markdown文档，我们正在构建最“扯淡”的语言模型，更多请看[HongXing 技术开发团队](https://hx.mizuki.top)
+> 该文案使用Nano Fabs AI 转换为Markdown文档，我们正在构建最“扯淡”的语言模型，更多请看[HongXing 技术开发团队](https://hx.mizuki.top)
 
 ## 正文
 
